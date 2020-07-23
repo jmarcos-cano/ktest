@@ -36,6 +36,19 @@ markdown: kramdown
 sass:
   style: compressed
 
+exclude:
+  - .img-sources/
+  - "*.sh"
+  - docker-compose.yml
+  - README.md
+  - Gemfile*
+  - .gitlab-ci.yml
+  - LICENSE
+  - experiments
+  - .gitignore
+  - .git
+  - LICENSE
+
 # CURRENT BOOTCAMPS
 bootcamp:
   name: "Docker Bootcamp v1.0 - Core"
