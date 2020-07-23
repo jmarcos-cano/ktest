@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Elements
+layout: post
+title: Consultoría
+description: 'Servicios de consultoría'
 nav-menu: true
+image: assets/images/kontinuservices.png
+
 ---
 
 <!-- Main -->
@@ -11,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Servicios</h1>
 		</header>
 
 <!-- Content -->

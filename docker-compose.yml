@@ -1,0 +1,14 @@
+version: "3.3"
+
+services:
+  page:
+    command: "jekyll serve --livereload --watch -P 4000 -H 0.0.0.0"
+    build: .
+    image: kontinu:webpage
+    environment:
+      - JEKYLL_ENV=production
+
+    volumes:
+      - $PWD:/app
+    ports:
+      -  "${PORT:-4000}:4000"

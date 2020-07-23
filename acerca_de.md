@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Acerca de
+description: Conoce acerca de nosotros
+image: assets/images/metal.png
 nav-menu: true
 ---
 
