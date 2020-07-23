@@ -4,6 +4,8 @@ title: Consultoría
 description: 'Servicios de consultoría'
 nav-menu: true
 image: assets/images/kontinuservices.png
+image_visible: true
+
 
 ---
 

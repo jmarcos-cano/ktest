@@ -3,11 +3,33 @@ layout: post
 title: Acerca de
 description: Conoce acerca de nosotros
 image: assets/images/metal.png
+#image_visible: true
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<p><span class="image left"><img src="{% link assets/images/kontinu-vertical.png %}" alt="Kontinu" /></span> 
+Kontinu es una empresa fundada en Guatemala 🇬🇹 en el año 2017 con el propósito de orientar a empresas e individuales en su
+camino a adoptar devops; Devops es mucho mas que un concepto o una palabra de moda y depende mucho de cada caso particular, es todo un proceso que requiere de las decisiones correctas entre muchas opciones, tener la experiencia necesaria y sobre todo
+ser pragmáticos, es ahi donde kontinu puede ayudarte.<br>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Kontinu no solamente ofrece consultorías desde Junio 2020 y debido a todo lo acontecido decidimos también extender nuestro portafolio a bootcamps en línea de manera virtual, en donde cientos de alumnos se han visto beneficiados, algunos de los bootcamps
+son gratuitos pero los mas avanzados y en donde encontraras mas contenido sera en los bootcamps los cuales son pagados. 
+
+<ul class="actions">
+	<li><a href="#" class="button special">Nuestros Bootcamps</a></li>
+</ul>
+
+</p>
+
+<p><span class="image right"><img  src="{% link assets/images/docker_me.png %}" alt="Marcos Cano" /></span>
+<h3>Conócenos un poco más</h3>
+Nuestro fundador es <a href="{{site.linkedin_url}}"> Marcos Cano</a>, actualmente es Senior Devops Engineer en una empresa canadiense 🇨🇦, tiene experiencia en Cloud Providers y Cloud Migration, de los tópicos que más le apasiona son <a href="http://docker.com"> Docker </a> y <a href="http://kubernetes.io"> Kubernetes </a> que son dos tecnologias que han ganado popularidad
+en estos últimos años pues permiten tener aplicaciones cloud native con menos fricción y esfuerzo; tambien es catedrático de Computer Science, desde hace mas de 2 años, en una universidad local y con experiencia pedagógica de mas de 8 años, esto le permite ser un 
+buen comunicador, facilitar y dejar plasmado el conocimiento en cada uno de sus alumnos a lo largo de los años  </p>
+
+
+<h2> ¿ Qué esperas para ponerete en contacto ? </h2>
+
+
+<br><br><br><br>
