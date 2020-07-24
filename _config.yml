@@ -30,7 +30,7 @@ pinterest_url:
 slack_url:
 twitter_url:
 youtube_url: https://www.youtube.com/channel/UCeElJeyz1LqZuOTgTpNwQ_w
-eventbrite_url: https://www.eventbrite.com/o/kontinu-27931381547
+eventbrite_url: http://kontinu.eventbrite.com/
 
 # build settings
 markdown: kramdown
