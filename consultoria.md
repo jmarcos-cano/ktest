@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Consultoría
 description: 'Servicios de consultoría'
 nav-menu: true
